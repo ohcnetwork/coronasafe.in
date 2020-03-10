@@ -5,6 +5,7 @@
 * [Symptoms](symptoms.md)
 * [Myths and Fake News](myths-and-fake-news.md)
 * [FAQ](faq.md)
+* [Contribute](contribute.md)
 
 ## Actions to take when <a id="action"></a>
 
