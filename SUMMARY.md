@@ -2,17 +2,18 @@
 
 * [Corona Safe](README.md)
 * [Precautions](precautions.md)
-* [Contribute](contribute.md)
+* [Symptoms](symptoms.md)
+* [Myths and Fake News](myths-and-fake-news.md)
 * [FAQ](faq.md)
 
-## Actions <a id="action"></a>
+## Actions to take when <a id="action"></a>
 
-* [Untitled](action/untitled.md)
+* [I am Infected](action/i-am-infected.md)
+* [Someone I know is Infected](action/someone-i-know-is-infected.md)
 
 ## Know COVID-19 <a id="about-covid-19"></a>
 
-* [Untitled](about-covid-19/untitled.md)
-* [Myths and Fake News](myths-and-fake-news.md)
+* [COVID-19 Virus Strain](about-covid-19/untitled.md)
 * [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
 * [Sources](sources.md)
 
