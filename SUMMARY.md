@@ -18,7 +18,7 @@
 
 ## Know COVID-19 <a id="about-covid-19"></a>
 
-* [COVID-19 Virus Strain](about-covid-19/untitled.md)
+* [COVID-19 Virus Strain](about-covid-19/covid-19-virus-strain.md)
 
 ## Resources
 
