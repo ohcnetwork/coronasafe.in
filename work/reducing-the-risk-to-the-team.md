@@ -30,3 +30,5 @@ Companies like IBS have employed strategies similar to below to reduce the risk 
 * Re-Organize the team so that employees who have higher risk of contracting the infection are not placed with those who have lower risk. 
 * If Work from home cannot be allotted to all the employees, make sure around half of the employees in a team have work from home facility, so that in case of an outbreak, the entire team is not affected. 
 * Keep the team size to a minimum to reduce the spread.
+
+## Source :  [https://www.health.govt.nz/your-health/healthy-living/environmental-health/infectious-disease-prevention-and-control/workplace-infectious-disease-prevention](https://www.health.govt.nz/your-health/healthy-living/environmental-health/infectious-disease-prevention-and-control/workplace-infectious-disease-prevention)
