@@ -16,5 +16,5 @@ This is a crowd sourced guide and is meant to be always updated with the latest 
 
 ## Using Email <a id="using-email"></a>
 
-Drop us an email at`coronasafe.in@gmail.com`
+Drop us an email at [coronasafe.in@gmail.com](mailto:coronasafe.in@gmail.com)
 
