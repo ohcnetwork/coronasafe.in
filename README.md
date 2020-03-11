@@ -40,5 +40,5 @@ This guide aggregates all that information into a single hub and distills into a
 
 {% page-ref page="resources/official-resources.md" %}
 
-{% page-ref page="sources.md" %}
+{% page-ref page="resources/sources.md" %}
 

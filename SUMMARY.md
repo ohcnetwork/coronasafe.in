@@ -25,5 +25,9 @@
 
 * [Official Resources](resources/official-resources.md)
 * [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
-* [Sources](sources.md)
+* [Sources](resources/sources.md)
+
+## work
+
+* [Effective tool to work remotely during Corona](work/effective-tool-to-work-remotely-during-corona.md)
 
