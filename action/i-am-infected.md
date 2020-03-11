@@ -1,12 +1,9 @@
 ---
 description: >-
-  Follow these steps if you think you have been infected with the novel
-  Coronavirus
+  If you are sick with COVID-19 or suspect you are infected with the virus that causes COVID-19, follow the steps below to help prevent the disease from spreading to people in your home and community.
 ---
 
 # I am Infected
-
-If you are sick with COVID-19 or suspect you are infected with the virus that causes COVID-19, follow the steps below to help prevent the disease from spreading to people in your home and community.
 
 ## Stay home except to get medical care
 
