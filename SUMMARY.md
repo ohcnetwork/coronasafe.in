@@ -17,17 +17,19 @@
 
 * [National Level Organisations](contact/national-level-organisations.md)
 
-## Know COVID-19 <a id="about-covid-19"></a>
+## Protocols To Follow At <a id="protocols"></a>
 
-* [COVID-19 Virus Strain](about-covid-19/covid-19-virus-strain.md)
+* [Airport](protocols/airport.md)
+* [Gatherings, Weddings, Funerals](protocols/gatherings-weddings-funerals.md)
+
+## Know COVID-19 <a id="know-covid-19-1"></a>
+
+* [COVID-19 Virus Strain](know-covid-19-1/covid-19-virus-strain.md)
 
 ## Resources
 
 * [Official Resources](resources/official-resources.md)
+* [Effective tool to work remotely during Corona](resources/effective-tool-to-work-remotely-during-corona.md)
 * [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
 * [Sources](resources/sources.md)
-
-## work
-
-* [Effective tool to work remotely during Corona](work/effective-tool-to-work-remotely-during-corona.md)
 

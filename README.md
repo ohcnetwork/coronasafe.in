@@ -34,7 +34,7 @@ This guide aggregates all that information into a single hub and distills into a
 
 {% page-ref page="myths-and-fake-news.md" %}
 
-{% page-ref page="about-covid-19/covid-19-virus-strain.md" %}
+{% page-ref page="know-covid-19-1/covid-19-virus-strain.md" %}
 
 {% page-ref page="faq.md" %}
 
