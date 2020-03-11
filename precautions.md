@@ -36,7 +36,7 @@ The virus can come in contact with your skin at any time, particularly your hand
 
 Depending on the level of outbreak in your local community it is [advised ](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public)to keep a safe distance of at-least 1 meter \(&gt; 3 feet\)  from anyone who is coughing or sneezing. If you are in the vicinity when the person sneezes or coughs they can produce small droplets which you can inhale and become infected if the person is infected.
 
-### Cover Your Mouse and Nose while Sneezing or Coughing
+### Cover Your Mouth and Nose while Sneezing or Coughing
 
 If you are coughing or sneezing do so while covering your face with a bent elbow or a hand kerchief. This would help prevent the spread viruses such as Flu, Cold or COVID-19. 
 
