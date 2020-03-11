@@ -14,7 +14,13 @@ Around 80% of the infected show only mild symptoms and recover with standard med
 
 The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
 
+### Why does this guide exist ?
+
 > **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
+
+COVID-19 is a novel corona virus, which means there isn't that much amount of information and public awareness about it. Most of the information is spread across a lot of independent governmental and non-governmental websites. There is also a lot of fake news and incorrect information circulating on Social Media about COVID-19 many of them life threatening.
+
+This guide aggregates all that information into a single hub and distills into a user friendly format.  This guide is also localized into many regional and national languages for a wider audience. We are always looking for contributors, you can [help out here](https://www.coronasafe.in/contribute).
 
 ### **Contents**
 

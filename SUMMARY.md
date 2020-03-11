@@ -3,6 +3,7 @@
 * [Corona Safe](README.md)
 * [Precautions](precautions.md)
 * [Symptoms](symptoms.md)
+* [Old and People with Medical Issues](old-and-people-with-medical-issues.md)
 * [Myths and Fake News](myths-and-fake-news.md)
 * [FAQ](faq.md)
 * [Contribute](contribute.md)
