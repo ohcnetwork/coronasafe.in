@@ -1,10 +1,10 @@
 ---
 description: >-
-  This page contains the contact information for the state operated control
-  rooms in each district.
+  This page contains the contact information for the State-operated Control
+  Rooms in each district.
 ---
 
-# Control Rooms
+# Control Rooms in Kerala
 
 Given below are the publicly available [contact details](http://dhs.kerala.gov.in/pdf2020/cont_09032020.pdf) of the control rooms at the forefront of containing the virus. Contact the nearest one for any assistance regarding COVID-19 assistance.
 

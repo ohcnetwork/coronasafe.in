@@ -8,6 +8,10 @@ There are a lot of myths and fake news that are both dangerous to yourselves and
 
 Here we have compiled a list of common myths and fake news about COVID-19. We have also linked the source of the article which proves it.
 
+{% hint style="info" %}
+Work in Progress, in the meantime refer : [https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters](https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public/myth-busters)
+{% endhint %}
+
 ### Does Drinking water and keeping your throat moist kills COVID-19 ?
 
 **No**, There has been messages circulating on Social media stating that drinking \(preferably hot\) water and keeping your throat moist can help prevent an infection. The messages also cite different health organizations. This is a myth.

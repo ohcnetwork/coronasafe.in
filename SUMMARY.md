@@ -15,7 +15,7 @@
 
 ## Contact
 
-* [Control Rooms](contact/control-rooms.md)
+* [Control Rooms in Kerala](contact/control-rooms-kerala.md)
 * [International Organizations](contact/international-organizations.md)
 * [National Level Organisations](contact/national-level-organisations.md)
 * [State and District Level Organizations](contact/state-and-district-level-organizations.md)

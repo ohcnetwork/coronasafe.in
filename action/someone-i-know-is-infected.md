@@ -26,5 +26,5 @@ Household members, intimate partners, and caregivers in a nonhealthcare setting 
 * Place all used disposable gloves, facemasks, and other contaminated items in a lined container before disposing of them with other household waste. Clean your hands \(with soap and water or an alcohol-based hand sanitizer\) immediately after handling these items. Soap and water should be used preferentially if hands are visibly dirty.
 * Discuss any additional questions with your state or local health department or healthcare provider. Check available hours when contacting your local health department.
 
-## Source :  [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
+Source :  [https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html\#precautions](https://www.cdc.gov/coronavirus/2019-ncov/hcp/guidance-prevent-spread.html#precautions)
 
