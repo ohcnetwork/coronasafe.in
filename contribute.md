@@ -8,7 +8,7 @@ This is a crowd sourced guide and is meant to be always updated with the latest 
 
 ## Using GitHub <a id="using-github"></a>
 
-1. Fork the GitHub repo [https://github.com/coronasafe/coronasafe.in​](https://github.com/coronasafe/coronasafe.in​)
+1. Fork the GitHub repo [https://github.com/coronasafe/coronasafe.in](https://github.com/coronasafe/coronasafe.in)
 2. Create a new file with `.md` extension.
 3. Update the path to file in `README.md` \(The front page\) & `SUMMARY.md` \(for ordering in sidebar\)
 4. Use Markdown language for updating the script.
@@ -16,5 +16,5 @@ This is a crowd sourced guide and is meant to be always updated with the latest 
 
 ## Using Email <a id="using-email"></a>
 
-Drop us an email at`coronasafe.in@gmail.com`
+Drop us an email at [coronasafe.in@gmail.com](mailto:coronasafe.in@gmail.com)
 
