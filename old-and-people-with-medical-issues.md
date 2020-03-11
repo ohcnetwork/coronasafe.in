@@ -21,21 +21,21 @@ The people with preexisting medical conditions tell a similar story. People with
 
 | Medical Condition | Mortality Rate % |
 | :--- | ---: |
-| Cardiovascular Disease  | 10.5 % |
-| Diabetes  | 7.3 % |
-| Chronic Respiratory Disease  | 6.3 % |
-| Hypertension  | 6.0 % |
-| Cancer  | 5.6 % |
-| No Health Condition  | 0.9 % |
+| Cardiovascular Disease | 10.5 % |
+| Diabetes | 7.3 % |
+| Chronic Respiratory Disease | 6.3 % |
+| Hypertension | 6.0 % |
+| Cancer | 5.6 % |
+| No Health Condition | 0.9 % |
 
 This all indicates that if you belong to any of the above said category you are at **High Risk** from COVID-19. You will need to take special precautions.
 
-## Extra Precautions for People at Higher Risk 
+## Extra Precautions for People at Higher Risk
 
-The above said people in the high risk category should follow these extra precautions to the ones specified in the guide. 
+The above said people in the high risk category should follow these extra precautions to the ones specified in the guide.
 
 {% hint style="info" %}
-Work in Progress, refer to 
+Work in Progress, refer to
 
 * [https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)
 {% endhint %}
