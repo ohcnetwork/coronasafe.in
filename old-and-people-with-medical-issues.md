@@ -4,7 +4,7 @@ description: >-
   (both present and past). This guide outlines extra precautions to be taken.
 ---
 
-# Old and People with Medical Issues
+# Old People and People with Medical Issues
 
 People above 70 years of age and people with medical issues either currently or previously are at the most risk from COVID-19. This data shows the elderly are at a much greater risk than young people.
 
@@ -29,4 +29,14 @@ The people with preexisting medical conditions tell a similar story. People with
 | No Health Condition  | 0.9 % |
 
 This all indicates that if you belong to any of the above said category you are at **High Risk** from COVID-19. You will need to take special precautions.
+
+## Extra Precautions for People at Higher Risk 
+
+The above said people in the high risk category should follow these extra precautions to the ones specified in the guide. 
+
+{% hint style="info" %}
+Work in Progress, refer to 
+
+* [https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html](https://www.cdc.gov/coronavirus/2019-ncov/specific-groups/high-risk-complications.html)
+{% endhint %}
 

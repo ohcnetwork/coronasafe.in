@@ -14,6 +14,10 @@ Around 80% of the infected show only mild symptoms and recover with standard med
 
 The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
 
+{% hint style="danger" %}
+This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions.
+{% endhint %}
+
 ### Why does this guide exist ?
 
 > **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
