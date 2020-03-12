@@ -28,7 +28,7 @@ Find the file you want to change and update the file. Follow this content [https
 
 If you are stuck. Join our slack channel [http://slack.coronasafe.in/](http://slack.coronasafe.in/) and ask for help. 
 
-## Using GitHub <a id="using-github"></a>
+## Forking the Repository <a id="using-github"></a>
 
 1. Fork the GitHub repo [https://github.com/coronasafe/coronasafe.in](https://github.com/coronasafe/coronasafe.in)
 2. Create a new file with `.md` extension.
