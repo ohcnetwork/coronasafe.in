@@ -45,7 +45,7 @@ COVID-19 outbreaks can be contained and transmission stopped, as has been shown 
 
 While we are still learning about how COVID-2019 affects people, older persons and persons with pre-existing medical conditions \(such as high blood pressure, heart disease, lung disease, cancer or diabetes\) appear to develop serious illness more often than others.
 
-Are there any medicines or therapies that can prevent or cure COVID-19?
+### Are there any medicines or therapies that can prevent or cure COVID-19?
 
 While some western, traditional or home remedies may provide comfort and alleviate symptoms of COVID-19, there is no evidence that current medicine can prevent or cure the disease. WHO does not recommend self-medication with any medicines, including antibiotics, as a prevention or cure for COVID-19. However, there are several ongoing clinical trials that include both western and traditional medicines. WHO will continue to provide updated information as soon as clinical findings are available.
 
