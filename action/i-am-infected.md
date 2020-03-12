@@ -21,7 +21,7 @@ description: >-
 
 ### Call ahead before visiting your doctor
 
-If you have a medical appointment, call the healthcare provider and tell them that you have or may have COVID-19. This will help the healthcare provider’s office take steps to keep other people from getting infected or exposed.
+* If you have a medical appointment, call the healthcare provider and tell them that you have or may have COVID-19. This will help the healthcare provider’s office take steps to keep other people from getting infected or exposed.
 
 ### Wear a facemask if you are sick
 
