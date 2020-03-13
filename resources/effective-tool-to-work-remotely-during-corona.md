@@ -33,8 +33,6 @@ Here are fews tools for remote communications listed below:
 
 🧾 <b>Jitsi</b>: Free open-source video conferencing for web & mobile. Make a call, launch on your own servers in minutes, integrate into your app, or develop something new. 👉https://jitsi.org/
 
-## License
+## SOURCE
 
-[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
-
-To the extent possible under law, [Allen Joseph](https://www.instagram.com/allen.joseph.aj/) has waived all copyright and related or neighboring rights to this work.
+[Corona](https://github.com/AllenAJ/Corona).
