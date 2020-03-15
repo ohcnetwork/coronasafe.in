@@ -12,6 +12,7 @@
 
 * [I am Infected](action/i-am-infected.md)
 * [Someone I know is Infected](action/someone-i-know-is-infected.md)
+* [Home Isolation](action/home-isolation.md)
 
 ## Contact
 
