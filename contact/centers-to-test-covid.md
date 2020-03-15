@@ -1,4 +1,8 @@
-# Centers to test COVID-19
+---
+description: Details of Centers to test for COVID-19 Infection
+---
+
+# Centers to Test for COVID-19
 
 _**A swab test:**_ A sample from your throat or nose will be collected with the help of a cotton swab.
 

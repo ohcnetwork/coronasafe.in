@@ -16,7 +16,7 @@
 
 ## Contact
 
-* [Centers to test COVID-19](contact/centers-to-test-covid.md)
+* [Centers to Test for COVID-19](contact/centers-to-test-covid.md)
 * [Control Rooms in Kerala](contact/control-rooms-kerala.md)
 * [International Organizations](contact/international-organizations.md)
 * [National Level Organisations](contact/national-level-organisations.md)
