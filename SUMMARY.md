@@ -3,7 +3,6 @@
 * [Corona Safe](README.md)
 * [Precautions and Preventive Measures](precautions.md)
 * [Symptoms](symptoms.md)
-* [Centers to test COVID-19](centers-to-test-covid.md)
 * [Old People and People with Medical Issues](old-and-people-with-medical-issues.md)
 * [Myths and Fake News](myths-and-fake-news.md)
 * [FAQ](faq.md)
@@ -17,6 +16,7 @@
 
 ## Contact
 
+* [Centers to test COVID-19](contact/centers-to-test-covid.md)
 * [Control Rooms in Kerala](contact/control-rooms-kerala.md)
 * [International Organizations](contact/international-organizations.md)
 * [National Level Organisations](contact/national-level-organisations.md)
