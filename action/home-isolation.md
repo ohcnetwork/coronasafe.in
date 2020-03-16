@@ -1,6 +1,10 @@
-# Home Isolation
+---
+description: >-
+  Home isolation measures for people with confirmed or suspected COVID-19 \(including persons under investigation\) who do not need to be hospitalized and people with confirmed COVID-19 who were hospitalized and determined to be medically stable to go home.
+---
 
-## Home isolation measures for people with confirmed or suspected COVID-19 \(including persons under investigation\) who do not need to be hospitalized and People with confirmed COVID-19 who were hospitalized and determined to be medically stable to go home
+
+# Home Isolation
 
 You should follow the prevention steps below until a healthcare provider or local or state health department says you can return to your normal activities.
 
