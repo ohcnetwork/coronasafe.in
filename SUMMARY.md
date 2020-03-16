@@ -4,6 +4,7 @@
 * [Precautions and Preventive Measures](precautions.md)
 * [Symptoms](symptoms.md)
 * [Old People and People with Medical Issues](old-and-people-with-medical-issues.md)
+* [Health Advisory Guidelines by Kerala Government](health advisories by kerala government.md)
 * [Myths and Fake News](myths-and-fake-news.md)
 * [FAQ](faq.md)
 * [Contribute](contribute.md)
