@@ -12,7 +12,7 @@ Coronaviruses refer to the family of viruses that are known to cause respiratory
 
 [COVID-19](https://www.who.int/emergencies/diseases/novel-coronavirus-2019) is a novel coronavirus that has never been previously identified in humans. It is zoonotic in nature, which means it can be transmitted from animal to human, and human to human interactions. It was first [reported](https://www.who.int/csr/don/05-january-2020-pneumonia-of-unkown-cause-china/en/) from Wuhan City on 31 December 2019 in China. The most common symptoms of COVID-19 are fever, tiredness, and dry cough. Some patients may have aches and pains, nasal congestion, runny nose, sore throat or diarrhea.
 
-Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical.
+Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical as per the studies.
 
 The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
 
