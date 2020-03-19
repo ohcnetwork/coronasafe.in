@@ -2,7 +2,6 @@
 description: Home Quarantine Guidelines of COVID-19 are given below.
 ---
 
-# GUIDELINES FOR HOME QUARANTINE
 
 # Introduction 
 *	Persons and household members should be educated about personal hygiene, basic IPC measures and how to care for the member of the family suspected of having COVID-19 disease as safely as possible to prevent the infection from spreading to household contacts.
