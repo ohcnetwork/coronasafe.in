@@ -16,7 +16,7 @@ Here are fews tools for remote communications listed below:
 
 📉 **bundleIQ**: Tired of not being able to find or access the content you and your team create? No worries, bundleIQ makes knowledge sharing easy and accessible. 👉[https://bundleiq.com/](https://bundleiq.com/)
 
-📑 **GSuit**: G Suite includes Gmail business email, Docs word processing, Drive cloud storage, Calendar shareable calendars etc 👉[https://gsuite.google.co.in/intl/en\_in/](https://gsuite.google.co.in/intl/en_in/)
+📑 **GSuite**: G Suite includes Gmail business email, Docs word processing, Drive cloud storage, Calendar shareable calendars etc 👉[https://gsuite.google.co.in/intl/en\_in/](https://gsuite.google.co.in/intl/en_in/)
 
 🗒 **Evernote**: Our note taking app helps you capture and prioritize ideas, projects and to-do lists, so nothing falls through the cracks. Start your free trial today! 👉[https://evernote.com/](https://evernote.com/)
 
