@@ -7,6 +7,7 @@ description: Home Quarantine Guidelines of COVID-19 are given below.
 # Introduction 
 *	Persons and household members should be educated about personal hygiene, basic IPC measures and how to care for the member of the family suspected of having COVID-19 disease as safely as possible to prevent the infection from spreading to household contacts.
 *	The persons and the family should be provided with ongoing support and education, and monitoring should continue for the duration of home care.
+
 # Recommendations 
 *	Persons and families should adhere to the following recommendations:-
     *	Place the person in a well-ventilated single room (i.e . with open windows and an open door)
