@@ -5,10 +5,10 @@ description: Home Quarantine Guidelines of COVID-19 are given below.
 # GUIDELINES FOR HOME QUARANTINE
 
 # Introduction 
-1.	Persons and household members should be educated about personal hygiene, basic IPC measures and how to care for the member of the family suspected of having COVID-19 disease as safely as possible to prevent the infection from spreading to household contacts.
-2.	The persons and the family should be provided with ongoing support and education, and monitoring should continue for the duration of home care.
+*	Persons and household members should be educated about personal hygiene, basic IPC measures and how to care for the member of the family suspected of having COVID-19 disease as safely as possible to prevent the infection from spreading to household contacts.
+*	The persons and the family should be provided with ongoing support and education, and monitoring should continue for the duration of home care.
 ## Recommendations 
-1.	Persons and families should adhere to the following recommendations:-
+*	Persons and families should adhere to the following recommendations:-
     *	Place the person in a well-ventilated single room (i.e . with open windows and an open door)
     *	Limit the movement of the person in the house and minimize shared space. Ensure that shared spaces (e.g., kitchen, bathroom) are well ventilated (e.g., keep windows open).
     *	Household members should stay in a different room or, if that is not possible. maintain a distance of at least 1 mt from the ill person.
@@ -24,7 +24,7 @@ secretions, and stool. Use disposal gloves and a mask when providing oral or res
     *	Use dedicated linen and eating utensils for the person; these items should
 be cleaned with soap and water after use and may be re-used instead of being discarded. They should be washed at 60-90 oC with common household detergent, and dry thoroughly. Place contaminated linen into a laundry bag.
     *	Clean and disinfect daily surfaces that are frequently touched in the room where the person is being cared for, such as bedside tables. bed frames and other bedroom furniture. Regular household soap or detergent should be used first for cleaning, and then, after rinsing, regular household disinfectant containing 0.5% sodium hypochlorite ( i.e., equivalent to 5000 pm or 1 part bleach 5 to 9 parts water) should be applied.
-   *	Clean and disinfect bathroom and toilet surfaces at least once daily. Regular household soap or detergent should be used first for cleaning. and then, after rinsing, regular household disinfectant containing 0.5% to 1% sodium hypochlorite should be applied.
-   *	Avoid other types of exposure to contaminated items from the person's immediate environment (e.g.. do not share toothbrushes, cigarettes. eating utensils, dishes, drinks, towels, washcloths or bed linen).
+    *	Clean and disinfect bathroom and toilet surfaces at least once daily. Regular household soap or detergent should be used first for cleaning. and then, after rinsing, regular household disinfectant containing 0.5% to 1% sodium hypochlorite should be applied.
+    *	Avoid other types of exposure to contaminated items from the person's immediate environment (e.g.. do not share toothbrushes, cigarettes. eating utensils, dishes, drinks, towels, washcloths or bed linen).
 
 
