@@ -30,17 +30,16 @@ This guide aggregates all that information into a single hub and distills into a
 
 ## **Contents**
 
-{% page-ref page="precautions.md" %}
+1. <a href="precautions.md">Precautions</a>
 
-{% page-ref page="symptoms.md" %}
+2. <a href="symptoms.md">Symptoms</a>
 
-{% page-ref page="myths-and-fake-news.md" %}
+3. <a href="myths-and-fake-news.md">Myths and Fake News</a>
 
-{% page-ref page="know-covid-19-1/covid-19-virus-strain.md" %}
+4. <a href="know-covid-19-1/covid-19-virus-strain.md">COVID-19 Virus Strain</a>
 
-{% page-ref page="faq.md" %}
+5. <a href="faq.md">Frequently Asked Questions</a>
 
-{% page-ref page="resources/official-resources.md" %}
+6. <a href="resources/official-resources.md">Official Resources</a>
 
-{% page-ref page="resources/sources.md" %}
-
+7. <a href="resources/sources.md">Sources</a>
