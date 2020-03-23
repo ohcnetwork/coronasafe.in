@@ -1,8 +1,9 @@
 ---
 description: >-
-  Home isolation measures for people with confirmed or suspected COVID-19 who do not need to be hospitalized and people who were hospitalized and then determined to be medically stable to go home.
+  Home isolation measures for people with confirmed or suspected COVID-19 who do
+  not need to be hospitalized and people who were hospitalized and then
+  determined to be medically stable to go home.
 ---
-
 
 # Home Isolation
 

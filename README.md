@@ -20,6 +20,16 @@ The virus has affected more than 100,000 globally and has caused more than 3000 
 This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.
 {% endhint %}
 
+## Translations
+
+This guide is currently being translated into Regional languages, check the respective guides for localized content.
+
+* [https://malayalam.coronasafe.network/](https://malayalam.coronasafe.network/)
+* [https://tamil.coronasafe.network/](https://tamil.coronasafe.network/)
+* [https://hindi.coronasafe.in/](https://hindi.coronasafe.in/)
+* [https://kannada.coronasafe.in/](https://kannada.coronasafe.in/)
+* [https://telugu.coronasafe.network/](https://telugu.coronasafe.network/)
+
 ## Why does this guide exist ?
 
 > **This guide is intended as a hub to collect information regarding preventive measures, information about the virus strain and official resources. These instructions are compiled from a variety of official sources.**
