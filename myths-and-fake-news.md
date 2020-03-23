@@ -22,7 +22,7 @@ There _\*\*_is no real evidence suggesting that drinking \(hot or cold\) water c
 
 Source: [https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus](https://factcheck.afp.com/health-authorities-did-not-say-drinking-water-will-prevent-coronavirus)
 
-## Does COVID-19 spread thorough Air ?
+## Does COVID-19 spread through Air ?
 
 **No,** COVID-19 is not airborne, meaning it does not spread through Air. It spreads through contact with droplets containing the virus from the nose and mouths of people who are infected.
 
