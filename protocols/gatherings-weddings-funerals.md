@@ -14,30 +14,30 @@ Large events and mass gatherings can contribute to the spread of COVID-19 via tr
 
 **When there is no spread of COVID-19 in the community:**
 
-Encourage staff and attendees to stay home if sick.
-Develop ﬂexible refund policies for attendees.
-Provide supplies that can be used to help prevent the spread of germs.
-Consult local public health officials about your event.
-Review considerations on when to cancel an event.
+* Encourage staff and attendees to stay home if sick.
+* Develop ﬂexible refund policies for attendees.
+* Provide supplies that can be used to help prevent the spread of germs.
+* Consult local public health officials about your event.
+* Review considerations on when to cancel an event.
 
 **If there is minimal or moderate spreadpdf icon in your community:**
 
-Cancel events for groups of 250 people or more.
-**16/3/20 UPDATE:** During the next 15 days, all U.S. events of 10+ people should be cancelled or held virtually.
-More Information on Mass Gatherings
-Read the White House noticepdf iconexternal icon
-For organizations that serve people who are at higher risk of serious COVID-19 illness, cancel events for groups of 10 people or more.
+* Cancel events for groups of 250 people or more.
+* **16/3/20 UPDATE:** During the next 15 days, all U.S. events of 10+ people should be cancelled or held virtually.
+* More Information on Mass Gatherings
+* Read the White House noticepdf iconexternal icon
+* For organizations that serve people who are at higher risk of serious COVID-19 illness, cancel events for groups of 10 people or more.
 
 **If there is substantial spreadpdf icon in your community:**
 
-Cancel events of any size.
+* Cancel events of any size.
 
 **If there is a case of COVID-19 at your event:**
 
-Separate anyone who has [COVID-19 symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) from others until they can go home.
-Anyone with symptoms should not take public transportation or shared rides
-Contact local public health officials.
-Communicate with staff and attendees about possible exposure.
-Clean and disinfect the event space.
+* Separate anyone who has [COVID-19 symptoms](https://www.cdc.gov/coronavirus/2019-ncov/symptoms-testing/symptoms.html) from others until they can go home.
+* Anyone with symptoms should not take public transportation or shared rides
+* Contact local public health officials.
+* Communicate with staff and attendees about possible exposure.
+* Clean and disinfect the event space.
 
 [Get detailed guidance](https://www.cdc.gov/coronavirus/2019-ncov/downloads/Mass-Gatherings-Document_FINAL.pdf)
