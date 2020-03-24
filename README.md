@@ -40,19 +40,19 @@ This guide aggregates all that information into a single hub and distills into a
 
 ## **Contents**
 
-[precautions.md](precautions.md)
+* [precautions.md](precautions.md)
 
-[symptom.md](symptoms.md)
+* [symptom.md](symptoms.md)
 
-[myths-and-fake-news.md](myths-and-fake-news.md)
+* [myths-and-fake-news.md](myths-and-fake-news.md)
 
-[covid-19-virus-strain.md.md](know-covid-19-1/covid-19-virus-strain.md)
+* [covid-19-virus-strain.md.md](know-covid-19-1/covid-19-virus-strain.md)
 
-[faq.md](faq.md)
+* [faq.md](faq.md)
 
-[official-resources.md](resources/official-resources.md)
+* [official-resources.md](resources/official-resources.md)
 
-[sources.md](resources/sources.md)
+* [sources.md](resources/sources.md)
 
 
 
