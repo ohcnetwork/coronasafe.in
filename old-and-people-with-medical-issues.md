@@ -35,30 +35,23 @@ This all indicates that if you belong to any of the above said category you are 
 The above said people in the high risk category should follow these extra precautions to the ones specified in the guide.
 
 1. Stock up on groceries and home supplies to avoid grocery visits and/or orders.
-2. Take extra care to maintain safe distance (1 metre ideally) from others
+2. Take extra care to maintain safe distance \(1 metre ideally\) from others
 3. When out in public on an absolutely necessary errand, limit contact and wash your hands often.
 4. Avoid crowds as much as possible
 5. Avoid all non essential intercity travels
 
 ### Supplies
 
-1. Contact your healthcare provider (doctor/clinic/hospital) to ask
-   about obtaining extra necessary medications in case of an
-   outbreak - you might need to stay indoors for a prolonged period of
-   time.
-   
-2. Over the counter supplies (tissues etc) and medicines could be
-   procured and kept ready in case you fall sick and need basic home
-   treatment. Most people will be able to recover at home.
-   
-3. Have enough household items on groceries on hand to avoid
-   unnecessary outside contact
-   
+1. Contact your healthcare provider \(doctor/clinic/hospital\) to ask about obtaining extra necessary medications in case of an outbreak - you might need to stay indoors for a prolonged period of time.
+2. Over the counter supplies \(tissues etc\) and medicines could be procured and kept ready in case you fall sick and need basic home treatment. Most people will be able to recover at home.
+3. Have enough household items on groceries on hand to avoid unnecessary outside contact
+
 ### If COVID-19 is spreading in your area
 
 Take extra measures to ensure safe distance from others
 
 1. Stay at home as much as possible
 2. Consider ways of getting supplies delivered to your home through
+
    family, social or commericial networks
-   
+

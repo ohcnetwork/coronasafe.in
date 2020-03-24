@@ -4,8 +4,8 @@
 * [Precautions and Preventive Measures](precautions.md)
 * [Symptoms](symptoms.md)
 * [Old People and People with Medical Issues](old-and-people-with-medical-issues.md)
-* [Health Advisory Guidelines by Kerala Government](health advisories by kerala government.md)
-* [Guidelines for Home Quarantine](Home quarantine guidelines.md)
+* [Health Advisory Guidelines by Kerala Government](health-advisories-by-kerala-government.md)
+* [Guidelines for Home Quarantine](home-quarantine-guidelines.md)
 * [Myths and Fake News](myths-and-fake-news.md)
 * [FAQ](faq.md)
 * [Contribute](contribute.md)
@@ -32,6 +32,7 @@
 ## Know COVID-19 <a id="know-covid-19-1"></a>
 
 * [COVID-19 Virus Strain](know-covid-19-1/covid-19-virus-strain.md)
+* [Take The Quiz](https://app.coronasafe.in/)
 
 ## Resources
 
@@ -39,5 +40,6 @@
 * [Statewise list of confirmed cases.](https://www.mohfw.gov.in/)
 * [Effective tool to work remotely during Corona](resources/effective-tool-to-work-remotely-during-corona.md)
 * [Global Map of Corona Outbreak](https://coronavirus.jhu.edu/map.html)
+* [Heat Map](https://map.coronasafe.in/)
 * [Sources](resources/sources.md)
 

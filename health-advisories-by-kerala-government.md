@@ -1,9 +1,10 @@
 ---
 description: >-
-  The following are the Health Advisories by Kerala Government for handling COVID-19 outbreak.
+  The following are the Health Advisories by Kerala Government for handling
+  COVID-19 outbreak.
 ---
 
-# Guidelines
+# Health Advisory Guidelines by Kerala Government
 
 Given below are the Guidelines given by the Directorate of health services, Govt Of Kerala, for handling the outbreak of Corona Virus.
 

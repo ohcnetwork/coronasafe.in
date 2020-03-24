@@ -20,7 +20,7 @@ If you are above 60+ years of age or have any existing or past medical condition
 
 ### Washing your hands frequently
 
-Since transmission mainly occurs through your hands, you should wash them frequently and thoroughly. It is recommended to use soap and water when available, else use hand sanitizers with sufficient amount of alcohol to kill off the germs.
+Since transmission mainly occurs through your hands, you should wash them frequently and thoroughly. It is recommended to use soap and water when available, else **use a hand sanitizer that contains at least 60% alcohol and rub until it dries.**
 
 > **Wash your hands frequently with soap and water for atleast 20 seconds or an alcohol based hand sanitizer.**
 
