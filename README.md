@@ -40,17 +40,19 @@ This guide aggregates all that information into a single hub and distills into a
 
 ## **Contents**
 
-{% page-ref page="precautions.md" %}
+[precautions.md](precautions.md)
 
-{% page-ref page="symptoms.md" %}
+[symptom.md](symptoms.md)
 
-{% page-ref page="myths-and-fake-news.md" %}
+[myths-and-fake-news.md](myths-and-fake-news.md)
 
-{% page-ref page="know-covid-19-1/covid-19-virus-strain.md" %}
+[covid-19-virus-strain.md.md](know-covid-19-1/covid-19-virus-strain.md)
 
-{% page-ref page="faq.md" %}
+[faq.md](faq.md)
 
-{% page-ref page="resources/official-resources.md" %}
+[official-resources.md](resources/official-resources.md)
 
-{% page-ref page="resources/sources.md" %}
+[sources.md](resources/sources.md)
+
+
 
