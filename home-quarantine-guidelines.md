@@ -4,6 +4,9 @@ description: Home Quarantine Guidelines of COVID-19 are given below.
 
 # Guidelines for Home Quarantine
 
+## Preventing the Spread of Coronavirus Disease 2019 in Homes and Residential Communities
+Household members, intimate partners, and caregivers in a nonhealthcare setting may have close contact2 with a person with symptomatic, laboratory-confirmed COVID-19 or a person under investigation. Close contacts should monitor their health; they should call their healthcare provider right away if they develop symptoms suggestive of COVID-19 (e.g., fever, cough, shortness of breath) (see Interim US Guidance for Risk Assessment and Public Health Management of Persons with Potential Coronavirus Disease 2019 (COVID-19) Exposure in Travel-associated or Community Settings.)
+
 ## Introduction
 
 * Persons and household members should be educated about personal hygiene, basic IPC measures and how to care for the member of the family suspected of having COVID-19 disease as safely as possible to prevent the infection from spreading to household contacts.
@@ -11,28 +14,39 @@ description: Home Quarantine Guidelines of COVID-19 are given below.
 
 ## Recommendations
 
-* Persons and families should adhere to the following recommendations:-
-  * Place the person in a well-ventilated single room \(i.e . with open windows and an open door\)
-  * Limit the movement of the person in the house and minimize shared space. Ensure that shared spaces \(e.g., kitchen, bathroom\) are well ventilated \(e.g., keep windows open\).
-  * Household members should stay in a different room or, if that is not possible. maintain a distance of at least 1 mt from the ill person.
-  * Limit the number of caregivers, ideally, assign one person who is in a good health and has no underlying chronic or immuno compromised conditions. Visitors should not be allowed until the person has completely recovered and has no signs and symptoms.
-  * Perform hand hygiene after any type of contact with person or their immediate environment. Hand hygiene should also be performed before and after preparing food, before eating, after using the toilets and whenever hands look dirty. If hands are not visibly dirty. an alcohol-based hand rub can be used For visibly dirty hands, use soap and water.
-  * When washing hands with soap and water, it is preferable to use
+*
+Close contacts should also follow these recommendations:
 
-    disposable paper towels to dry hands. If these are not available. use clean cloth rowels and replace them when they become wet. Disposable paper towels should be disposed off in closed bins only.
+    Make sure that you understand and can help the patient follow their healthcare provider’s instructions for medication(s) and care. You should help the patient with basic needs in the home and provide support for getting groceries, prescriptions, and other personal needs.
+    Monitor the patient’s symptoms. If the patient is getting sicker, call his or her healthcare provider and tell them that the patient has laboratory-confirmed COVID-19. This will help the healthcare provider’s office take steps to keep other people in the office or waiting room from getting infected. Ask the healthcare provider to call the local or state health department for additional guidance. If the patient has a medical emergency and you need to call 911, notify the dispatch personnel that the patient has, or is being evaluated for COVID-19.
+    Household members should stay in another room or be separated from the patient as much as possible. Household members should use a separate bedroom and bathroom, if available.
+    Prohibit visitors who do not have an essential need to be in the home.
+    Household members should care for any pets in the home. Do not handle pets or other animals while sick.  For more information, see COVID-19 and Animals.
+    Make sure that shared spaces in the home have good air flow, such as by an air conditioner or an opened window, weather permitting.
+    Perform hand hygiene frequently. Wash your hands often with soap and water for at least 20 seconds or use an alcohol-based hand sanitizer that contains 60 to 95% alcohol, covering all surfaces of your hands and rubbing them together until they feel dry. Soap and water should be used preferentially if hands are visibly dirty.
+    Avoid touching your eyes, nose, and mouth with unwashed hands.
+    The patient should wear a facemask when you are around other people. If the patient is not able to wear a facemask (for example, because it causes trouble breathing), you, as the caregiver, should wear a mask when you are in the same room as the patient.
+    Wear a disposable facemask and gloves when you touch or have contact with the patient’s blood, stool, or body fluids, such as saliva, sputum, nasal mucus, vomit, urine.
+        Throw out disposable facemasks and gloves after using them. Do not reuse.
+        When removing personal protective equipment, first remove and dispose of gloves. Then, immediately clean your hands with soap and water or alcohol-based hand sanitizer. Next, remove and dispose of facemask, and immediately clean your hands again with soap and water or alcohol-based hand sanitizer.
+    Avoid sharing household items with the patient. You should not share dishes, drinking glasses, cups, eating utensils, towels, bedding, or other items. After the patient uses these items, you should wash them thoroughly (see below “Wash laundry thoroughly”).
+    Clean all “high-touch” surfaces, such as counters, tabletops, doorknobs, bathroom fixtures, toilets, phones, keyboards, tablets, and bedside tables, every day. Also, clean any surfaces that may have blood, stool, or body fluids on them.
+        Use a household cleaning spray or wipe, according to the label instructions. Labels contain instructions for safe and effective use of the cleaning product including precautions you should take when applying the product, such as wearing gloves and making sure you have good ventilation during use of the product.
+    Wash laundry thoroughly.
+        Immediately remove and wash clothes or bedding that have blood, stool, or body fluids on them.
+        Wear disposable gloves while handling soiled items and keep soiled items away from your body. Clean your hands (with soap and water or an alcohol-based hand sanitizer) immediately after removing your gloves.
+        Read and follow directions on labels of laundry or clothing items and detergent. In general, using a normal laundry detergent according to washing machine instructions and dry thoroughly using the warmest temperatures recommended on the clothing label.
+    Place all used disposable gloves, facemasks, and other contaminated items in a lined container before disposing of them with other household waste. Clean your hands (with soap and water or an alcohol-based hand sanitizer) immediately after handling these items. Soap and water should be used preferentially if hands are visibly dirty.
+    Discuss any additional questions with your state or local health department or healthcare provider. Check available hours when contacting your local health department.
 
-  * To contain respiratory secretions, a medical mask should be provided to the person and worn as much as possible. Materials used to cover the mouth and nose should be discarded or cleaned appropriately after use \(e.g., wash handkerchiefs using regular soap or detergent and water\).
-  * Caregivers should wear a tightly fitted medical mask that covers their mouth and nose when in the same room as the person. Masks should not be touched or handled during use If the mask gets wet or dirty from secretions, it must be replaced immediately with a new clean, dry mask. Remove the mask using the appropriate technique — that is, do not touch the front, but instead untie it Discard the mask immediately after use and perform hand hygiene.
-  * Avoid direct contact with body fluids, particularly oral or respiratory
+Footnotes
 
-    secretions, and stool. Use disposal gloves and a mask when providing oral or respiratory care and when handling stool, urine. and other waste. Perform hand hygiene before and after removing gloves and mask.
+1Home healthcare personnel should refer to Interim Infection Prevention and Control Recommendations for Patients with Known or Patients Under Investigation for Coronavirus Disease 2019 (COVID-19) in a Healthcare Setting.
 
-  * Do not reuse masks or gloves
-  * Use dedicated linen and eating utensils for the person; these items should
+2Close contact is defined as—
 
-    be cleaned with soap and water after use and may be re-used instead of being discarded. They should be washed at 60-90 oC with common household detergent, and dry thoroughly. Place contaminated linen into a laundry bag.
+a) being within approximately 6 feet (2 meters) of a COVID-19 case for a prolonged period of time; close contact can occur while caring for, living with, visiting, or sharing a health care waiting area or room with a COVID-19 case
 
-  * Clean and disinfect daily surfaces that are frequently touched in the room where the person is being cared for, such as bedside tables. bed frames and other bedroom furniture. Regular household soap or detergent should be used first for cleaning, and then, after rinsing, regular household disinfectant containing 0.5% sodium hypochlorite \( i.e., equivalent to 5000 pm or 1 part bleach 5 to 9 parts water\) should be applied.
-  * Clean and disinfect bathroom and toilet surfaces at least once daily. Regular household soap or detergent should be used first for cleaning. and then, after rinsing, regular household disinfectant containing 0.5% to 1% sodium hypochlorite should be applied.
-  * Avoid other types of exposure to contaminated items from the person's immediate environment \(e.g.. do not share toothbrushes, cigarettes. eating utensils, dishes, drinks, towels, washcloths or bed linen\).
+– or –
 
+b) having direct contact with infectious secretions of a COVID-19 case (e.g., being coughed on).
