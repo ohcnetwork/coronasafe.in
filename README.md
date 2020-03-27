@@ -14,7 +14,7 @@ Coronaviruses refer to the family of viruses that are known to cause respiratory
 
 Around 80% of the infected show only mild symptoms and recover with standard medical attention. Older people and those with an underlying or previous medical condition develop serious symptoms and without medical intervention can prove fatal. Around 14% of the infected become seriously ill and 5% critical as per the studies.
 
-The virus has affected more than 100,000 globally and has caused more than 3000 deaths. WHO has given the status of Very High Risk at the Global Level.
+The virus has affected more than 400,000 globally and has caused more than 22,000 deaths. WHO has given the status of Very High Risk at the Global Level.
 
 {% hint style="danger" %}
 This guide is still a Work In Progress. Until some sections are complete we will be providing the official links for reference. You have to follow those instructions until the guide gets updated.

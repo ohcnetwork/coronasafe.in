@@ -6,10 +6,6 @@ description: >-
 
 # Gatherings, Weddings, Funerals
 
-{% hint style="info" %}
-Work in Progress, refer to: [https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html](https://www.cdc.gov/coronavirus/2019-ncov/community/large-events/index.html)
-{% endhint %}
-
 Large events and mass gatherings can contribute to the spread of COVID-19 via travelers who attend these events and introduce the virus to new communities. Examples of large events and mass gatherings include conferences, festivals, parades, concerts, sporting events, weddings, and other types of assemblies. These events can be planned not only by organizations and communities but also by individuals.
 
 **When there is no spread of COVID-19 in the community:**
