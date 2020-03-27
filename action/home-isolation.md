@@ -34,3 +34,7 @@ You should follow the prevention steps below until a healthcare provider or loca
 * Should not attend meetings, social gatherings, parties etc
 * Avoid public transport
 
+## Discontinuation of home isolation for persons with Covid-19
+Follow this link to a brief guidelines by Centers for disease control and prevention(CDC) :
+https://www.cdc.gov/coronavirus/2019-ncov/hcp/disposition-in-home-patients.html
+
