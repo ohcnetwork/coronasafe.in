@@ -30,7 +30,7 @@ Given below are the publicly available [contact details](http://dhs.kerala.gov.i
 | Pathanamthitta | 0468-2228220 |  |  |
 | Alappuzha | 0477-2239999 | 0477-2251650 |  |
 | Kottayam | 0481-2304800 |  |  |
-| Idukki | 0486-2233111 |  |  | 
+| Idukki | 0486-2233111 |  |  |
 | Ernakulam | 0484-2368802 |  |  |
 | Thrissur | 9400410720 | 9400408120 |  |
 | Palakkad | 0491-2505264 |  |  |
@@ -38,5 +38,5 @@ Given below are the publicly available [contact details](http://dhs.kerala.gov.i
 | Kozhikode | 0495-2371471 | 0495-2376063 |  |
 | Wayanad | 0493-6204151 |  |  |
 | Kannur | 0497-2700194 |  |  |
-| Kasaragod | 9946000493 | 9946000293 | 0467-2217777 | 
+| Kasaragod | 9946000493 | 9946000293 | 0467-2217777 |
 

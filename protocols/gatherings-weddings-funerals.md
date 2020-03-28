@@ -37,3 +37,4 @@ Large events and mass gatherings can contribute to the spread of COVID-19 via tr
 * Clean and disinfect the event space.
 
 [Get detailed guidance](https://www.cdc.gov/coronavirus/2019-ncov/downloads/Mass-Gatherings-Document_FINAL.pdf)
+
