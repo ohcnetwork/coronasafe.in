@@ -13,7 +13,7 @@ COVID-19 affects different people in different ways. Most infected people will d
 * Fever
 * Dry cough
 * Tiredness
-* Less common symptoms:
+### Less common symptoms:
 * Aches and pains
 * Sore throat
 * Diarrhoea
