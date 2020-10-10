@@ -15,6 +15,10 @@ Some symptoms appear less common than others. The major symptoms of COVID-19 bas
 * Shortness of Breath 
 * Muscle Pain or Joint Pain
 * Sore Throat 
+* headache
+* loss of taste or smell
+* a rash on skin, or discolouration of fingers or toes
+
 
 Most of the symptoms overlap with those of flu and common cold. COVID-19 [rarely produces a runny nose.](https://ourworldindata.org/coronavirus#the-symptoms-of-covid-19)
 
